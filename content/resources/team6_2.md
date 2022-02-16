@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Image of work for team design project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/121d6a1feb2ecad1be20c0db22294abc_team6_2.jpg
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/121d6a1feb2ecad1be20c0db22294abc_team6_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: team6_2.jpg
 uid: 121d6a1f-eb2e-cad1-be20-c0db22294abc

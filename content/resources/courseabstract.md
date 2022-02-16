@@ -12,8 +12,12 @@ description: 'Course Proposal Abstract: This paper presents a new undergraduate 
   design optimization, rapid prototyping, and structural testing. The learning objectives,
   pedagogy, required resources and instructional processes as well as results from
   a student assessment are discussed.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0d56bb8e599181c69859a70dcb332122_courseabstract.pdf
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0d56bb8e599181c69859a70dcb332122_courseabstract.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: courseabstract.pdf
 uid: 0d56bb8e-5991-81c6-9859-a70dcb332122

@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Hand sketch for student design project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/858788175e046eb6e877930be8f22d48_group5_sketch.jpg
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/858788175e046eb6e877930be8f22d48_group5_sketch.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: group5_sketch.jpg
 uid: 85878817-5e04-6eb6-e877-930be8f22d48

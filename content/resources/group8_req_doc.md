@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c12ce34c310b827bd2862f0abcb2d249_group8_req_doc.pdf
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c12ce34c310b827bd2862f0abcb2d249_group8_req_doc.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: group8_req_doc.pdf
 uid: c12ce34c-310b-827b-d286-2f0abcb2d249

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes information on performance, mass and load case.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7927225a6c9b17f9fe71a93d672af31f_gp2_cae.pdf
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7927225a6c9b17f9fe71a93d672af31f_gp2_cae.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: gp2_cae.pdf
 uid: 7927225a-6c9b-17f9-fe71-a93d672af31f

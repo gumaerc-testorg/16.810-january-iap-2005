@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: Sketch for student design project.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/e93f1af943c93f21ed53f8ba9e60f0c9_group6_sketch.jpg
+file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/e93f1af943c93f21ed53f8ba9e60f0c9_group6_sketch.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: group6_sketch.jpg
 uid: e93f1af9-43c9-3f21-ed53-f8ba9e60f0c9
