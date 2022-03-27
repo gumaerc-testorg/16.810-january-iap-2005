@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: team3_flogger_2.jpg
 uid: 4d52c8f5-6ee5-4515-2d6c-25e2a93bf7a1

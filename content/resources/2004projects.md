@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: 2004projects.jpg
 uid: d7e2fc9c-afb7-9368-fe13-dec43495dfda

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Other
 title: gp7_framev1.sldprt
 uid: 095d28cc-fb1c-08fd-829f-eaf5a16a90b5

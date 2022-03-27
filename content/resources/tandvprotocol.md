@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: tandvprotocol.pdf
 uid: d425b5ed-dbee-b311-cfc0-4766b9df4794

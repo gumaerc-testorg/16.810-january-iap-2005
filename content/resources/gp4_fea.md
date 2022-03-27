@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: gp4_fea.pdf
 uid: dc5e13df-5b5a-7540-7a89-fb58a6fc5692

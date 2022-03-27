@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: rev_dsgn_req.pdf
 uid: 6433436d-ea21-64c1-62f9-9406b3bfb16a

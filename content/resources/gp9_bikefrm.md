@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Other
 title: gp9_bikefrm.sldprt
 uid: 578ac8ee-574d-fdb3-f63b-db245956df98

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: gp5_fem_modal.pdf
 uid: 91235a72-31df-32a0-2e6a-5e17c697d3d2

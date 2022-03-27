@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: gp6_fem.pdf
 uid: 7bd8776c-12e4-5ae9-41eb-a75f3806b18f

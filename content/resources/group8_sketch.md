@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Image
 title: group8_sketch.jpg
 uid: 5e4ad178-aecf-2d1e-22f1-13cd1303fb65

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 379cc19e-1938-de69-287e-b14758a1fee1
 resourcetype: Document
 title: solidworks.pdf
 uid: 0c8edf8a-c3d8-1474-7823-1da42d732be2

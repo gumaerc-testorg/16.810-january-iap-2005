@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e89fade9-721e-eee0-98ac-f554d7439279
 resourcetype: Document
 title: gp6_fea_modal.pdf
 uid: 9eb15c7b-7af4-1eba-b311-27bf8c3126c3

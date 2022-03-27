@@ -18,6 +18,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: df2f5bcf-2ace-b00c-6ae1-55761c3c4d0f
 resourcetype: Document
 title: courseabstract.pdf
 uid: 0d56bb8e-5991-81c6-9859-a70dcb332122
