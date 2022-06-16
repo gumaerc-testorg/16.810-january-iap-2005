@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/578ac8ee574dfdb3f63bdb245956df98_gp9_bikefrm.sldprt
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/578ac8ee574dfdb3f63bdb245956df98_gp9_bikefrm.sldprt
 file_type: application/msword
 learning_resource_types:
 - Projects

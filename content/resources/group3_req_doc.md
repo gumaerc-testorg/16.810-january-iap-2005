@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/d899b77483209cf94818bfa1a6e4adb3_group3_req_doc.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/d899b77483209cf94818bfa1a6e4adb3_group3_req_doc.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of work for team design project.
-file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/e09d4b9f61e677e4c31969f7a099468a_team9.jpg
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/e09d4b9f61e677e4c31969f7a099468a_team9.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: team9.jpg
 uid: e09d4b9f-61e6-77e4-c319-69f7a099468a
 ---
+Image of work for team design project.
+

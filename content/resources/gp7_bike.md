@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a special file to supplement the student work.
-file: /media/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7bec590271a2c219a2e00028a9ff8e99_gp7_bike.sldprt
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7bec590271a2c219a2e00028a9ff8e99_gp7_bike.sldprt
 file_type: application/msword
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Other
 title: gp7_bike.sldprt
 uid: 7bec5902-71a2-c219-a2e0-0028a9ff8e99
 ---
+This resource includes a special file to supplement the student work.
+
