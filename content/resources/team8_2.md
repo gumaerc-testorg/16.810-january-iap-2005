@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: team8_2.jpg
 uid: 7bedbdbc-3740-6c8a-d3ed-5ae17844ee7b
 ---
 Image of work for team design project.
-

@@ -6,6 +6,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: gp3_frog_ver3.pdf
 uid: 1fdecd5b-498a-9727-0489-0279b3b01a03
 ---
 This resource includes information on requirement, manufacturing cost, performance, and mass.
-

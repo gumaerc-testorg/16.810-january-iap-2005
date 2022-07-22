@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: group2_sketch.jpg
 uid: b513611d-6419-4a94-b2a9-f6f2aa602649
 ---
 Hand sketch for design project.
-

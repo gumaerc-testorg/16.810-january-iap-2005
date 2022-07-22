@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/msword
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dataprotocol.xls
 uid: 693e24f4-0191-55d9-23b2-8c7845cdb812
 ---
 This file contains the wind tunnel database.
-

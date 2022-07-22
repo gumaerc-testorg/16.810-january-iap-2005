@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tandvprotocol.pdf
 uid: d425b5ed-dbee-b311-cfc0-4766b9df4794
 ---
 This file contains information on test and verification protocol.
-

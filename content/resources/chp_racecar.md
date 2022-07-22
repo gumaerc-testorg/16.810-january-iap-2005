@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_racecar.jpg
 uid: 854e49d3-453f-401f-0b3d-fa3e84734383
 ---
 The subject of the class project, the design of a rear wing for a race car. (Image by Prof. de Weck.)
-

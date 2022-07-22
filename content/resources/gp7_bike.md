@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/msword
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gp7_bike.sldprt
 uid: 7bec5902-71a2-c219-a2e0-0028a9ff8e99
 ---
 This resource includes a special file to supplement the student work.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 2004projects.jpg
 uid: d7e2fc9c-afb7-9368-fe13-dec43495dfda
 ---
 Various component designs and stages from student projects. (Courtesy of Alf Kohler, Namiko Yamamoto, Gregory Mark, Chris Voekler, Aaron Bell, and Conor Walsh.)
-

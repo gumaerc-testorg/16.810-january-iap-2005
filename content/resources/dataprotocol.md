@@ -5,6 +5,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dataprotocol.pdf
 uid: 37d85b49-b844-117a-c009-8cba27a52bd6
 ---
 This file contains notes on data analysis protocol.
-

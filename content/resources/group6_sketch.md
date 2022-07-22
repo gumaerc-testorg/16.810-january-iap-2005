@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: group6_sketch.jpg
 uid: e93f1af9-43c9-3f21-ed53-f8ba9e60f0c9
 ---
 Sketch for student design project.
-

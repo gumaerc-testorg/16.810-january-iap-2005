@@ -6,6 +6,7 @@ file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: abridged_syl.pdf
 uid: f733f9a8-d8d1-97ff-8ef7-cafb11b52fc8
 ---
 This resource includes information on the given teaching and education enhancement program.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: team3_flogger_2.jpg
 uid: 4d52c8f5-6ee5-4515-2d6c-25e2a93bf7a1
 ---
 Image of work for team design project.
-
