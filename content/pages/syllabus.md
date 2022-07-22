@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Syllabus section contains the description and rationale for offering
+  this subject.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: df2f5bcf-2ace-b00c-6ae1-55761c3c4d0f
 ---
@@ -27,7 +31,7 @@ Rationale for Offering this Subject
 
 A recent survey of undergraduate students in the Department of Aeronautics and Astronautics (in conjunction with the new Department Head Search in 2003) has shown that there is a desire for training in modern design methods using state-of-the-art CAD/CAE/CAM technology and design optimization. Individual students have suggested the addition of a short and intense course in rapid prototyping, combined with design optimization. The intent of this course is to respond to this perceived gap, while exploiting synergies with other engineering departments that have articulated similar needs.
 
-2004 Course Abstract (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/courseabstract))
+2004 Course Abstract ({{% resource_link 0d56bb8e-5991-81c6-9859-a70dcb332122 "PDF" %}})
 
 Readings
 --------

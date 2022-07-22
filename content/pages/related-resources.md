@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 379cc19e-1938-de69-287e-b14758a1fee1
 ---
@@ -7,7 +10,7 @@ uid: 379cc19e-1938-de69-287e-b14758a1fee1
 Manual for Design Tools Used in this Course
 -------------------------------------------
 
-SolidWorks®, CosmosWorks®, Omax and Water Jet Manual ([PDF - 1.3 MB]({{< baseurl >}}/resources/solidworks))
+SolidWorks®, CosmosWorks®, Omax and Water Jet Manual ({{% resource_link 0c8edf8a-c3d8-1474-7823-1da42d732be2 "PDF - 1.3 MB" %}})
 
 Course Pedagogy Reference
 -------------------------
