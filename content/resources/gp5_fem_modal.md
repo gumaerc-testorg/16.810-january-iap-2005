@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on design requirement.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/91235a7231df32a02e6a5e17c697d3d2_gp5_fem_modal.pdf
+file_size: 63164
 file_type: application/pdf
 learning_resource_types:
 - Projects

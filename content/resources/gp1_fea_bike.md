@@ -2,6 +2,7 @@
 content_type: resource
 description: This resouce includes basic part model and model with dimensions.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/e8ab5b3736c41d5961493b5a044ddf24_gp1_fea_bike.pdf
+file_size: 81928
 file_type: application/pdf
 learning_resource_types:
 - Projects
