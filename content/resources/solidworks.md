@@ -6,6 +6,7 @@ description: The purpose of this document is to provide a rough procedure of how
   structural analysis using CosmosWorks, and how to use the computer-aided manufacturing
   (CAM) tools for manufacturing with a water jet cutter are detailed in this document.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0c8edf8ac3d8147478231da42d732be2_solidworks.pdf
+file_size: 1364888
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

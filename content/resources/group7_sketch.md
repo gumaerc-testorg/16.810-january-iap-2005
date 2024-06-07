@@ -2,6 +2,7 @@
 content_type: resource
 description: Sketch from student design project.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/488367e5189a30d527ef2d21cdfcceee_group7_sketch.jpg
+file_size: 660723
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Hand sketch for Design 1 assignment.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/af23b91067839faccf08bb3205876220_group1_sketch.jpg
+file_size: 148951
 file_type: image/jpeg
 image_metadata:
   caption: ''

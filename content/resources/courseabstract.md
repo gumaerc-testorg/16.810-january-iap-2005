@@ -13,6 +13,7 @@ description: 'Course Proposal Abstract: This paper presents a new undergraduate 
   pedagogy, required resources and instructional processes as well as results from
   a student assessment are discussed.'
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/0d56bb8e599181c69859a70dcb332122_courseabstract.pdf
+file_size: 754481
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
