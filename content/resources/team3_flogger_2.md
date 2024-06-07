@@ -2,6 +2,7 @@
 content_type: resource
 description: Image of work for team design project.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/4d52c8f56ee545152d6c25e2a93bf7a1_team3_flogger_2.jpg
+file_size: 267020
 file_type: image/jpeg
 image_metadata:
   caption: ''

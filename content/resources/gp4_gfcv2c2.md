@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a special file to supplement the student work.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/653b4be3569b9632cbbf12fe1c9ea47c_gp4_gfcv2c2.sldprt
+file_size: 614912
 file_type: application/msword
 learning_resource_types:
 - Projects

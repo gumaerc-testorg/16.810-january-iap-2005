@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on mountain bike.
 file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/9eb15c7b7af41ebab31127bf8c3126c3_gp6_fea_modal.pdf
+file_size: 8745
 file_type: application/pdf
 learning_resource_types:
 - Projects
