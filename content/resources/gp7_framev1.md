@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a special file to supplement the student work.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/095d28ccfb1c08fd829feaf5a16a90b5_gp7_framev1.sldprt
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/095d28ccfb1c08fd829feaf5a16a90b5_gp7_framev1.sldprt
 file_size: 724992
 file_type: application/msword
 learning_resource_types:
