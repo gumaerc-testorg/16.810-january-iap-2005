@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on displacement in the Y direction.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/04bd584a945554d5c02f4797252761c4_gp5_fem1.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/04bd584a945554d5c02f4797252761c4_gp5_fem1.pdf
 file_size: 234654
 file_type: application/pdf
 learning_resource_types:
