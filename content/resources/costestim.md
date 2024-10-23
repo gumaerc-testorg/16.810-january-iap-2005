@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a cost estimation sheet.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/62938eeeefa97fcb9b00c3a78d3834fd_costestim.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/62938eeeefa97fcb9b00c3a78d3834fd_costestim.pdf
 file_size: 15458
 file_type: application/pdf
 learning_resource_types:

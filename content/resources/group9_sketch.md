@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sketch from student design project.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/25b6722cb23f92214aed4ce97d247077_group9_sketch.jpg
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/25b6722cb23f92214aed4ce97d247077_group9_sketch.jpg
 file_size: 147419
 file_type: image/jpeg
 image_metadata:
