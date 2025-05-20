@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on part design, and analysis results.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7bd8776c12e45ae941eba75f3806b18f_gp6_fem.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7bd8776c12e45ae941eba75f3806b18f_gp6_fem.pdf
 file_size: 60390
 file_type: application/pdf
 learning_resource_types:

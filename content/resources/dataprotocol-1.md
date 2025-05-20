@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the wind tunnel database.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/693e24f4019155d923b28c7845cdb812_dataprotocol.xls
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/693e24f4019155d923b28c7845cdb812_dataprotocol.xls
 file_size: 1156096
 file_type: application/msword
 learning_resource_types:

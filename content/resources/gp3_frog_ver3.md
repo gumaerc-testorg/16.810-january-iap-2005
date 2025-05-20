@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on requirement, manufacturing cost,
   performance, and mass.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/1fdecd5b498a972704890279b3b01a03_gp3_frog_ver3.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/1fdecd5b498a972704890279b3b01a03_gp3_frog_ver3.pdf
 file_size: 59469
 file_type: application/pdf
 learning_resource_types:
