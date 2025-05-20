@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the design flow chart.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c3210163233b503bdc27765660ccbbe1_deliverables.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c3210163233b503bdc27765660ccbbe1_deliverables.pdf
 file_size: 24074
 file_type: application/pdf
 learning_resource_types:
