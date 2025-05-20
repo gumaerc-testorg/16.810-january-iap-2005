@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on initial manufactured frame for
   the Frogger model, and final manufactured frame for the Frogger model.
-file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/256f2cdd166c688361804daf79d43e71_gp3_frogger_v8.pdf
+file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/256f2cdd166c688361804daf79d43e71_gp3_frogger_v8.pdf
 file_size: 88774
 file_type: application/pdf
 learning_resource_types:
