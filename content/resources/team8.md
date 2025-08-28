@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Image of work for team design project.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/2b63ea89a3998054766783bb7433cd5f_team8.jpg
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/2b63ea89a3998054766783bb7433cd5f_team8.jpg
 file_size: 206781
 file_type: image/jpeg
 image_metadata:

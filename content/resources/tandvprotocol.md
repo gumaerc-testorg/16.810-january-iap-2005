@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information on test and verification protocol.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/d425b5eddbeeb311cfc04766b9df4794_tandvprotocol.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/d425b5eddbeeb311cfc04766b9df4794_tandvprotocol.pdf
 file_size: 29974
 file_type: application/pdf
 learning_resource_types:

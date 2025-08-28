@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7973a2a1e30eadf65ad3fff79ca0791a_group7_req_doc.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/7973a2a1e30eadf65ad3fff79ca0791a_group7_req_doc.pdf
 file_size: 185385
 file_type: application/pdf
 learning_resource_types:
