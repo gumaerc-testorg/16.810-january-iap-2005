@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/9e75cde70480c63b744f4288af978271_gp3_boomerang.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/9e75cde70480c63b744f4288af978271_gp3_boomerang.pdf
 file_size: 69657
 file_type: application/pdf
 learning_resource_types:

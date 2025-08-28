@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information about the project to be submitted.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/47e333c62583b80d580ab46102710355_projectdesc.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/47e333c62583b80d580ab46102710355_projectdesc.pdf
 file_size: 347691
 file_type: application/pdf
 learning_resource_types:

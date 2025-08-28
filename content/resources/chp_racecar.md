@@ -2,7 +2,7 @@
 content_type: resource
 description: The subject of the class project, the design of a rear wing for a race
   car. (Image by Prof. de Weck.)
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/854e49d3453f401f0b3dfa3e84734383_chp_racecar.jpg
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/854e49d3453f401f0b3dfa3e84734383_chp_racecar.jpg
 file_size: 35844
 file_type: image/jpeg
 image_metadata:
