@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hand sketch for student design project.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/858788175e046eb6e877930be8f22d48_group5_sketch.jpg
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/858788175e046eb6e877930be8f22d48_group5_sketch.jpg
 file_size: 122166
 file_type: image/jpeg
 image_metadata:

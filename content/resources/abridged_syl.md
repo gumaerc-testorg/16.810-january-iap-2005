@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on the given teaching and education
   enhancement program.
-file: /courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/f733f9a8d8d197ff8ef7cafb11b52fc8_abridged_syl.pdf
+file: /ol-ocw-studio-app/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/f733f9a8d8d197ff8ef7cafb11b52fc8_abridged_syl.pdf
 file_size: 194582
 file_type: application/pdf
 learning_resource_types:
